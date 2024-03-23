@@ -3,13 +3,21 @@ Week 13 Challenge
 
 In this challenge I was given the task of editing a starter starter code so that the application is fully functional. It is a database for a e-commerce website and contains the following features:
 
-- A
-- B
-- C
+- make GET, POST, PUT, and DELETE requests to the following endpoints:
+    * /api/categories
+    * /api/products
+    * /api/tags
 
 
 ## Installation
-
+To install this application, download the repository files and open the root folder in your command line. You will also need Node.js installed. Install all other dependencies using the following command:
+```
+npm i
+```
+Then to run the application, use the command: 
+```
+node server.js
+```
 
 ## User Story
 ```
