@@ -42,6 +42,8 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 
+![Screenshot of backend testing](assets/images/ecommerce-backend-screenshot.png)
+
 Application available for download at: https://github.com/yaserhdev/ecommerce-backend
 
-Demo video of application available at:
+Demo video of application available at: https://youtu.be/5WWaX3tLIu0
